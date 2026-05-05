@@ -51,3 +51,6 @@ int main() {
     mhs4.printAll();
 
     cout << "Akses dari luar object (NIM Terakhir) = " << mahasiswa::getNim() << endl;
+
+    return 0;
+}
