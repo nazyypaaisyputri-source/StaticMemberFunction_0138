@@ -26,3 +26,5 @@ class mahasiswa{
         };
 
 };
+
+int mahasiswa::nim = 0;
