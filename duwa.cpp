@@ -44,3 +44,10 @@ int main() {
     mahasiswa::setNim(9); // Mengubah static nim menjadi 9
     mahasiswa mhs3("Andi Janu");
     mahasiswa mhs4("Joko Wohono");
+
+    mhs1.printAll();
+    mhs2.printAll();
+    mhs3.printAll();
+    mhs4.printAll();
+
+}
