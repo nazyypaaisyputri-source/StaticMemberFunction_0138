@@ -42,3 +42,5 @@ int main() {
     mahasiswa mhs2("Budi Jatmiko");
 
     mahasiswa::setNim(9); // Mengubah static nim menjadi 9
+    mahasiswa mhs3("Andi Janu");
+    mahasiswa mhs4("Joko Wohono");
