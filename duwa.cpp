@@ -50,4 +50,4 @@ int main() {
     mhs3.printAll();
     mhs4.printAll();
 
-}
+    cout << "Akses dari luar object (NIM Terakhir) = " << mahasiswa::getNim() << endl;
